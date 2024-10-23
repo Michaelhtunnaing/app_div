@@ -1,0 +1,64 @@
+{
+  "allData": {
+    "url": "https://spankbang.com/new_videos/",
+    "divall": "div.video-list > .video-item",
+    "tq": "img",
+    "ta": "alt",
+    "imgq": "img",
+    "imga": "data-src",
+    "urlq": "a",
+    "urla": "href"
+  },
+  "tagData": {
+    "url": "",
+    "divall": "",
+    "urla": ""
+  },
+  "tagSectionData": {
+    "url": "",
+    "divall": "",
+    "tq": "",
+    "ta": "",
+    "imgq": "",
+    "imga": "",
+    "urlq": "",
+    "urla": ""
+  },
+    "modelData":{
+    "url":"",
+    "divall":"",
+    "tq":"",
+    "urlq":"",
+    "urla":""
+  },
+    "modelSectionData":{
+    "url":"",
+    "divall":"",
+    "tq":"",
+    "ta":"",
+    "imgq":"",
+    "imga":"",
+    "urlq":"",
+    "urla":""
+  },
+    "channelData":{
+    "url":"",
+    "divall":"",
+    "tq":"",
+    "ta":"",
+    "imgq":"",
+    "imga":"",
+    "urlq":"",
+    "urla":""
+  },
+    "channelSectionData":{
+    "url":"",
+    "divall":"",
+    "tq":"",
+    "ta":"",
+    "imgq":"",
+    "imga":"",
+    "urlq":"",
+    "urla":""
+  }
+}
