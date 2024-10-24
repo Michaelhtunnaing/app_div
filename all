@@ -42,23 +42,23 @@
     "urla":""
   },
     "channelData":{
-    "url":"",
-    "divall":"",
-    "tq":"",
-    "ta":"",
-    "imgq":"",
-    "imga":"",
-    "urlq":"",
-    "urla":""
+    "url":"https://spankbang.com/channels",
+    "divall":"ul.results > li",
+    "tq":"img",
+    "ta":"alt",
+    "imgq":"img",
+    "imga":"src",
+    "urlq":"a",
+    "urla":"href"
   },
     "channelSectionData":{
     "url":"",
-    "divall":"",
-    "tq":"",
-    "ta":"",
-    "imgq":"",
-    "imga":"",
-    "urlq":"",
-    "urla":""
+    "divall":".video-list > .video-item",
+    "tq":"a",
+    "ta":"title",
+    "imgq":"img",
+    "imga":"data-src",
+    "urlq":"a",
+    "urla":"href"
   }
 }
