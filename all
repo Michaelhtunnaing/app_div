@@ -1,11 +1,11 @@
 {
   "allData": {
-    "url": "https://spankbang.com/new_videos/",
-    "divall": "div.video-list > .video-item",
+    "url": "https://xhamster.com/best/weekly",
+    "divall": ".thumb-list__item",
     "tq": "img",
     "ta": "alt",
     "imgq": "img",
-    "imga": "data-src",
+    "imga": "src",
     "urlq": "a",
     "urla": "href"
   },
