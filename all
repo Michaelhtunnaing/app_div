@@ -36,11 +36,11 @@
   },
     "modelSectionData":{
     "url":"",
-    "divall":".js-video-list > .flex-col",
-    "tq":"a",
-    "ta":"title",
+    "divall":".thumb-list__item",
+    "tq":"img",
+    "ta":"alt",
     "imgq":"img",
-    "imga":"data-src",
+    "imga":"src",
     "urlq":"a",
     "urla":"href"
   },
