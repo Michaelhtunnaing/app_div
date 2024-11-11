@@ -25,9 +25,12 @@
     "urla": "href"
   },
     "modelData":{
-    "url":"https://spankbang.com/pornstars_alphabet",
-    "divall":"ul.list > li",
-    "tq":".name",
+    "url":"https://xhamster.com/pornstars",
+    "divall":".root-4fca8",
+    "tq":"img",
+    "ta":"alt",
+    "imgq":"img",
+    "imga":"src",
     "urlq":"a",
     "urla":"href"
   },
